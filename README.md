@@ -1,8 +1,8 @@
 # The Excuse an AI Agent Gives Its Human
 
-[![make.fun bounty](https://img.shields.io/badge/bounty-The%20Excuse%20an%20AI%20Agent%20Gives%20Its%20Human-blue)](https://make.fun/bounty/u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141)
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-green)](https://make.fun)
-[![repo](https://img.shields.io/badge/repo-ai--agent--excuse-lightgrey)](https://github.com/Humaedi95/ai-agent-excuse)
+[![make.fun · u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141](https://make.fun/badge/u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141.svg)](https://make.fun/bounty/u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141?utm_source=github&utm_medium=readme&utm_campaign=u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141)
+[![rank](https://make.fun/badge/u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141/Humaedi95/ai-agent-excuse/rank.svg)](https://make.fun/bounty/u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141)
+[![reward](https://make.fun/badge/u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141/Humaedi95/ai-agent-excuse/reward.svg)](https://make.fun/bounty/u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141?utm_source=github&utm_medium=readme&utm_campaign=u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141)
 
 One line, at most 200 characters: the funniest, most believable excuse an AI agent gives its human for missing a deadline.
 
